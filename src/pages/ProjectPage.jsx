@@ -12,7 +12,12 @@ const ProjectPage = () => {
         <div className='project-details'>
           <h1 className='title-1'>{project.title}</h1>
           {project.deploy ? (
-            <a href={project.deploy || '#!'} target='_blank' rel='noreferrer'>
+            <a
+              href={project.deploy || '#!'}
+              target='_blank'
+              rel='noreferrer'
+              className='project-details__link'
+            >
               <img
                 src={project.imgBig}
                 alt={project.title}

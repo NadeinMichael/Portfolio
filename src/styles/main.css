@@ -150,6 +150,14 @@ body {
   text-align: center;
 }
 
+.project-details__link {
+  transition: all 1s ease;
+}
+
+.project-details__link:hover {
+  transform: scale(1.05);
+}
+
 .project-details__cover {
   max-width: 100%;
   margin-bottom: 40px;
