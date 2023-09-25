@@ -1,5 +1,5 @@
-import project01 from '../img/projects/01.jpg';
-import project01Big from '../img/projects/01-big.jpg';
+import airpodsLending from '../img/projects/airpods-lending.jpg';
+import airpodsLendingBig from '../img/projects/airpods-lending-big.jpg';
 
 import project02 from '../img/projects/02.jpg';
 import project02Big from '../img/projects/02-big.jpg';
@@ -19,11 +19,12 @@ import project06Big from '../img/projects/06-big.jpg';
 const projects = [
   {
     id: 0,
-    title: 'Gaming streaming portal',
-    skills: 'React, Node.js, MongoDB',
-    img: project01,
-    imgBig: project01Big,
-    gitHubLink: 'https://github.com/NadeinMichael',
+    title: 'Airpods-lending',
+    skills: 'HTML, CSS, @media, JS',
+    img: airpodsLending,
+    imgBig: airpodsLendingBig,
+    gitHubLink: 'https://github.com/NadeinMichael/airpods-lending',
+    deploy: 'https://nadeinmichael.github.io/airpods-lending/',
   },
   {
     id: 1,
