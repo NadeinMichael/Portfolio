@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 import './styles/main.css';
 
@@ -17,10 +17,10 @@ function App() {
         <ScrollToTop />
         <Navbar />
         <Routes>
-          <Route path='/portfolio' element={<HomePage />} />
-          <Route path='/portfolio/projects' element={<ProjectsPage />} />
-          <Route path='/portfolio/contacts' element={<ContactsPage />} />
-          <Route path='/portfolio/project/:id' element={<ProjectPage />} />
+          <Route path='/' element={<HomePage />} />
+          <Route path='/projects' element={<ProjectsPage />} />
+          <Route path='/contacts' element={<ContactsPage />} />
+          <Route path='/project/:id' element={<ProjectPage />} />
         </Routes>
         <Footer />
       </Router>
