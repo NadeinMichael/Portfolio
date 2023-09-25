@@ -11,14 +11,14 @@ const Navbar = () => {
     <nav className='nav'>
       <div className='container'>
         <div className='nav-row'>
-          <NavLink to='/' className='logo'>
+          <NavLink to='/portfolio' className='logo'>
             <strong>Nadein</strong> dev
           </NavLink>
           <ButtonDarkMode />
           <ul className='nav-list'>
             <li className='nav-list__item'>
               <NavLink
-                to='/'
+                to='/portfolio'
                 className={({ isActive }) =>
                   isActive ? activeLink : normalLink
                 }
@@ -28,7 +28,7 @@ const Navbar = () => {
             </li>
             <li className='nav-list__item'>
               <NavLink
-                to='/projects'
+                to='/portfolio/projects'
                 className={({ isActive }) =>
                   isActive ? activeLink : normalLink
                 }
@@ -38,7 +38,7 @@ const Navbar = () => {
             </li>
             <li className='nav-list__item'>
               <NavLink
-                to='/contacts'
+                to='/portfolio/contacts'
                 className={({ isActive }) =>
                   isActive ? activeLink : normalLink
                 }
