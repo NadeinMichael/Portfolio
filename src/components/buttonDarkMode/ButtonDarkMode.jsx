@@ -1,14 +1,12 @@
 import { useEffect } from 'react';
 import { useLocalStorage } from '../../utils/useLocalStorage';
 
-import detectDarkMode from '../../utils/detectDarkMode';
-
 import './buttonDarkMode.css';
 import sun from '../../img/icons/sun.svg';
 import moon from '../../img/icons/moon.svg';
 
 const ButtonDarkMode = () => {
-  const [darkMode, setDarkMode] = useLocalStorage('darkMode', detectDarkMode());
+  const [darkMode, setDarkMode] = useLocalStorage('darkMode', false);
 
   useEffect(() => {
     if (darkMode) {
@@ -25,7 +23,7 @@ const ButtonDarkMode = () => {
   return (
     <button
       className={
-        !darkMode ? 'dark-mode-btn' : 'dark-mode-btn dark-mode-btn--active'
+        darkMode ? 'dark-mode-btn' : 'dark-mode-btn dark-mode-btn--active'
       }
       onClick={toggleDarkMode}
     >
