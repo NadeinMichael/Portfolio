@@ -1,19 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ccb89b48.css",
-    "main.js": "/portfolio/static/js/main.9da395a5.js",
-    "static/media/04-big.jpg": "/portfolio/static/media/04-big.9dc8caf822c4a4116af4.jpg",
-    "static/media/03-big.jpg": "/portfolio/static/media/03-big.42d4e6c6843189e73fd2.jpg",
-    "static/media/05-big.jpg": "/portfolio/static/media/05-big.f315645c87f1dfe5c2c6.jpg",
-    "static/media/02-big.jpg": "/portfolio/static/media/02-big.55e8268286a008f0aa84.jpg",
-    "static/media/06-big.jpg": "/portfolio/static/media/06-big.51b90ae43fdfcf0ab077.jpg",
+    "main.css": "/portfolio/static/css/main.59995fe1.css",
+    "main.js": "/portfolio/static/js/main.0e12241f.js",
     "static/media/airpods-lending-big.jpg": "/portfolio/static/media/airpods-lending-big.c90e9d76bb90a39ecffe.jpg",
-    "static/media/04.jpg": "/portfolio/static/media/04.da38cca11cede6d4ef43.jpg",
-    "static/media/03.jpg": "/portfolio/static/media/03.a1f0cefe3665b6313065.jpg",
-    "static/media/05.jpg": "/portfolio/static/media/05.497e1d12eb46a0b52271.jpg",
-    "static/media/06.jpg": "/portfolio/static/media/06.86ff2b3c4326d053ac65.jpg",
-    "static/media/02.jpg": "/portfolio/static/media/02.97324eaa701fadea307f.jpg",
+    "static/media/travel-big.jpg": "/portfolio/static/media/travel-big.19f215305fd08ac73611.jpg",
     "static/media/header-bg.png": "/portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/travel.jpg": "/portfolio/static/media/travel.3462e3d1c08ed8f18267.jpg",
     "static/media/airpods-lending.jpg": "/portfolio/static/media/airpods-lending.614dfc9b47e2ff548fd1.jpg",
     "static/media/sun.svg": "/portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
@@ -21,11 +13,11 @@
     "static/media/gitHub-black.svg": "/portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
     "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/portfolio/index.html",
-    "main.ccb89b48.css.map": "/portfolio/static/css/main.ccb89b48.css.map",
-    "main.9da395a5.js.map": "/portfolio/static/js/main.9da395a5.js.map"
+    "main.59995fe1.css.map": "/portfolio/static/css/main.59995fe1.css.map",
+    "main.0e12241f.js.map": "/portfolio/static/js/main.0e12241f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccb89b48.css",
-    "static/js/main.9da395a5.js"
+    "static/css/main.59995fe1.css",
+    "static/js/main.0e12241f.js"
   ]
 }
