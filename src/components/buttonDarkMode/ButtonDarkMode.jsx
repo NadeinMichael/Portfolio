@@ -23,7 +23,7 @@ const ButtonDarkMode = () => {
   return (
     <button
       className={
-        darkMode ? 'dark-mode-btn' : 'dark-mode-btn dark-mode-btn--active'
+        !darkMode ? 'dark-mode-btn' : 'dark-mode-btn dark-mode-btn--active'
       }
       onClick={toggleDarkMode}
     >
