@@ -13,9 +13,9 @@ const Header = () => {
         <div className='header__text'>
           <p>with passion for learning and creating.</p>
         </div>
-        <a href='../../files/Nadein-CV.pdf' download className='btn'>
+        {/* <a href='../../files/Nadein-CV.pdf' download className='btn'>
           Download CV
-        </a>
+        </a> */}
       </div>
     </header>
   );
