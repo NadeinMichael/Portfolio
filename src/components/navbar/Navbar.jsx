@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className='container'>
         <div className='nav-row'>
           <NavLink to='/' className='logo'>
-            <strong>Nadein</strong> dev
+            <strong>Nadein</strong>.dev
           </NavLink>
           <ButtonDarkMode />
           <ul className='nav-list'>
