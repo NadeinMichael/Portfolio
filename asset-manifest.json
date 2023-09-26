@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.59995fe1.css",
-    "main.js": "/portfolio/static/js/main.d7a30269.js",
+    "main.css": "/portfolio/static/css/main.44cc4a52.css",
+    "main.js": "/portfolio/static/js/main.030e549f.js",
     "static/media/airpods-lending-big.jpg": "/portfolio/static/media/airpods-lending-big.c90e9d76bb90a39ecffe.jpg",
     "static/media/travel-big.jpg": "/portfolio/static/media/travel-big.19f215305fd08ac73611.jpg",
     "static/media/movie-big.jpg": "/portfolio/static/media/movie-big.70d7d6f31e045840a134.jpg",
@@ -15,11 +15,11 @@
     "static/media/gitHub-black.svg": "/portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
     "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/portfolio/index.html",
-    "main.59995fe1.css.map": "/portfolio/static/css/main.59995fe1.css.map",
-    "main.d7a30269.js.map": "/portfolio/static/js/main.d7a30269.js.map"
+    "main.44cc4a52.css.map": "/portfolio/static/css/main.44cc4a52.css.map",
+    "main.030e549f.js.map": "/portfolio/static/js/main.030e549f.js.map"
   },
   "entrypoints": [
-    "static/css/main.59995fe1.css",
-    "static/js/main.d7a30269.js"
+    "static/css/main.44cc4a52.css",
+    "static/js/main.030e549f.js"
   ]
 }
