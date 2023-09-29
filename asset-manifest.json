@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.44cc4a52.css",
-    "main.js": "/portfolio/static/js/main.030e549f.js",
+    "main.js": "/portfolio/static/js/main.d2c33ad9.js",
     "static/media/airpods-lending-big.jpg": "/portfolio/static/media/airpods-lending-big.c90e9d76bb90a39ecffe.jpg",
     "static/media/travel-big.jpg": "/portfolio/static/media/travel-big.19f215305fd08ac73611.jpg",
     "static/media/movie-big.jpg": "/portfolio/static/media/movie-big.70d7d6f31e045840a134.jpg",
+    "static/media/employees-big.jpg": "/portfolio/static/media/employees-big.592fa18132f2cb8e5549.jpg",
     "static/media/header-bg.png": "/portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/travel.jpg": "/portfolio/static/media/travel.3462e3d1c08ed8f18267.jpg",
     "static/media/movie.jpg": "/portfolio/static/media/movie.d3bdca6aaffac903d443.jpg",
@@ -16,10 +17,10 @@
     "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/portfolio/index.html",
     "main.44cc4a52.css.map": "/portfolio/static/css/main.44cc4a52.css.map",
-    "main.030e549f.js.map": "/portfolio/static/js/main.030e549f.js.map"
+    "main.d2c33ad9.js.map": "/portfolio/static/js/main.d2c33ad9.js.map"
   },
   "entrypoints": [
     "static/css/main.44cc4a52.css",
-    "static/js/main.030e549f.js"
+    "static/js/main.d2c33ad9.js"
   ]
 }
