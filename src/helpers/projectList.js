@@ -7,6 +7,9 @@ import travelBig from '../img/projects/travel-big.jpg';
 import movie from '../img/projects/movie.jpg';
 import movieBig from '../img/projects/movie-big.jpg';
 
+import employees from '../img/projects/employees.jpg';
+import employeesBig from '../img/projects/employees-big.jpg';
+
 const projects = [
   {
     id: 0,
@@ -34,6 +37,15 @@ const projects = [
     imgBig: movieBig,
     gitHubLink: 'https://github.com/NadeinMichael/movies-explorer',
     deploy: 'https://nadeinmichael.github.io/movies-explorer/',
+  },
+  {
+    id: 3,
+    title: 'Employees App',
+    skills: 'React, Node js, Express, Ant design, Redux RTK, TypeScript',
+    img: employees,
+    imgBig: employeesBig,
+    gitHubLink: 'https://github.com/NadeinMichael/Employees',
+    // deploy: 'https://nadeinmichael.github.io/movies-explorer/',
   },
 ];
 
