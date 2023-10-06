@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.44cc4a52.css",
-    "main.js": "/portfolio/static/js/main.d22b3b22.js",
+    "main.js": "/portfolio/static/js/main.7403e5c3.js",
     "static/media/airpods-lending-big.jpg": "/portfolio/static/media/airpods-lending-big.c90e9d76bb90a39ecffe.jpg",
     "static/media/travel-big.jpg": "/portfolio/static/media/travel-big.19f215305fd08ac73611.jpg",
     "static/media/iphone-big.jpg": "/portfolio/static/media/iphone-big.28f3cd3d8c79ef1c58b4.jpg",
     "static/media/bike-big.jpg": "/portfolio/static/media/bike-big.cb706cc83647fb398354.jpg",
     "static/media/carshering-big.jpg": "/portfolio/static/media/carshering-big.11e649d85b40cd8b00b9.jpg",
+    "static/media/arrow-game-big.jpg": "/portfolio/static/media/arrow-game-big.0107af926d4ae4bc2866.jpg",
     "static/media/movie-big.jpg": "/portfolio/static/media/movie-big.70d7d6f31e045840a134.jpg",
     "static/media/employees-big.jpg": "/portfolio/static/media/employees-big.592fa18132f2cb8e5549.jpg",
     "static/media/header-bg.png": "/portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
@@ -16,6 +17,7 @@
     "static/media/iphone.jpg": "/portfolio/static/media/iphone.70c1c85997cefb5ec26c.jpg",
     "static/media/movie.jpg": "/portfolio/static/media/movie.d3bdca6aaffac903d443.jpg",
     "static/media/airpods-lending.jpg": "/portfolio/static/media/airpods-lending.614dfc9b47e2ff548fd1.jpg",
+    "static/media/arrow-game.jpg": "/portfolio/static/media/arrow-game.536ab4a9e76f165a4171.jpg",
     "static/media/sun.svg": "/portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
     "static/media/gitHub.svg": "/portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
@@ -23,10 +25,10 @@
     "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/portfolio/index.html",
     "main.44cc4a52.css.map": "/portfolio/static/css/main.44cc4a52.css.map",
-    "main.d22b3b22.js.map": "/portfolio/static/js/main.d22b3b22.js.map"
+    "main.7403e5c3.js.map": "/portfolio/static/js/main.7403e5c3.js.map"
   },
   "entrypoints": [
     "static/css/main.44cc4a52.css",
-    "static/js/main.d22b3b22.js"
+    "static/js/main.7403e5c3.js"
   ]
 }
