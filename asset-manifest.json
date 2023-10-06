@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.44cc4a52.css",
-    "main.js": "/portfolio/static/js/main.7403e5c3.js",
+    "main.js": "/portfolio/static/js/main.8cb31550.js",
     "static/media/airpods-lending-big.jpg": "/portfolio/static/media/airpods-lending-big.c90e9d76bb90a39ecffe.jpg",
     "static/media/travel-big.jpg": "/portfolio/static/media/travel-big.19f215305fd08ac73611.jpg",
     "static/media/iphone-big.jpg": "/portfolio/static/media/iphone-big.28f3cd3d8c79ef1c58b4.jpg",
@@ -22,13 +22,14 @@
     "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
     "static/media/gitHub.svg": "/portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
     "static/media/gitHub-black.svg": "/portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/telegram.svg": "/portfolio/static/media/telegram.0ffc557730a789f7b6971d9f4ca889da.svg",
     "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/portfolio/index.html",
     "main.44cc4a52.css.map": "/portfolio/static/css/main.44cc4a52.css.map",
-    "main.7403e5c3.js.map": "/portfolio/static/js/main.7403e5c3.js.map"
+    "main.8cb31550.js.map": "/portfolio/static/js/main.8cb31550.js.map"
   },
   "entrypoints": [
     "static/css/main.44cc4a52.css",
-    "static/js/main.7403e5c3.js"
+    "static/js/main.8cb31550.js"
   ]
 }
