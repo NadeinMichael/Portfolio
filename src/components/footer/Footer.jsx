@@ -1,6 +1,7 @@
 import './footer.css';
 import gitHub from '../../img/icons/gitHub.svg';
 import linkedIn from '../../img/icons/linkedIn.svg';
+import telegram from '../../img/icons/telegram.svg';
 
 const Footer = () => {
   return (
@@ -24,6 +25,15 @@ const Footer = () => {
                 rel='noreferrer'
               >
                 <img src={linkedIn} alt='Link linkedIn' />
+              </a>
+            </li>
+            <li className='social__item'>
+              <a
+                href='https://t.me/nadein_mihail'
+                target='_blank'
+                rel='noreferrer'
+              >
+                <img src={telegram} alt='Link linkedIn' />
               </a>
             </li>
           </ul>
