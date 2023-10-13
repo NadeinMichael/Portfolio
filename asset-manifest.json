@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.44cc4a52.css",
-    "main.js": "/portfolio/static/js/main.8cb31550.js",
+    "main.js": "/portfolio/static/js/main.e6cb9535.js",
     "static/media/airpods-lending-big.jpg": "/portfolio/static/media/airpods-lending-big.c90e9d76bb90a39ecffe.jpg",
+    "static/media/travel-x-big.jpg": "/portfolio/static/media/travel-x-big.6dd498f1ba378ee44d77.jpg",
     "static/media/travel-big.jpg": "/portfolio/static/media/travel-big.19f215305fd08ac73611.jpg",
     "static/media/iphone-big.jpg": "/portfolio/static/media/iphone-big.28f3cd3d8c79ef1c58b4.jpg",
     "static/media/bike-big.jpg": "/portfolio/static/media/bike-big.cb706cc83647fb398354.jpg",
@@ -10,6 +11,7 @@
     "static/media/arrow-game-big.jpg": "/portfolio/static/media/arrow-game-big.0107af926d4ae4bc2866.jpg",
     "static/media/movie-big.jpg": "/portfolio/static/media/movie-big.70d7d6f31e045840a134.jpg",
     "static/media/employees-big.jpg": "/portfolio/static/media/employees-big.592fa18132f2cb8e5549.jpg",
+    "static/media/travel-x.jpg": "/portfolio/static/media/travel-x.ffe76ea3ad8b6865d91d.jpg",
     "static/media/header-bg.png": "/portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/travel.jpg": "/portfolio/static/media/travel.3462e3d1c08ed8f18267.jpg",
     "static/media/carshering.jpg": "/portfolio/static/media/carshering.c5e0c46824c89b23a80c.jpg",
@@ -26,10 +28,10 @@
     "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/portfolio/index.html",
     "main.44cc4a52.css.map": "/portfolio/static/css/main.44cc4a52.css.map",
-    "main.8cb31550.js.map": "/portfolio/static/js/main.8cb31550.js.map"
+    "main.e6cb9535.js.map": "/portfolio/static/js/main.e6cb9535.js.map"
   },
   "entrypoints": [
     "static/css/main.44cc4a52.css",
-    "static/js/main.8cb31550.js"
+    "static/js/main.e6cb9535.js"
   ]
 }
