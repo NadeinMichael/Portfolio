@@ -25,6 +25,9 @@ import arrowGameBig from '../img/projects/arrow-game-big.jpg';
 import travelX from '../img/projects/travel-x.jpg';
 import travelXBig from '../img/projects/travel-x-big.jpg';
 
+import newsApp from '../img/projects/news-app.small.jpg';
+import newsAppBig from '../img/projects/news-app.big.jpg';
+
 const projects = [
   {
     id: 0,
@@ -37,6 +40,15 @@ const projects = [
   },
   {
     id: 1,
+    title: 'News app',
+    skills: 'React, React Router, TypeScript, axios',
+    img: newsApp,
+    imgBig: newsAppBig,
+    gitHubLink: 'https://github.com/NadeinMichael/news-app',
+    deploy: 'https://news-app-three-opal-72.vercel.app/',
+  },
+  {
+    id: 2,
     title: 'Employees App',
     skills: 'React, TypeScript, Redux RTK, Node js, Express, Ant design, ',
     img: employees,
@@ -45,7 +57,7 @@ const projects = [
     // deploy: 'https://nadeinmichael.github.io/movies-explorer/',
   },
   {
-    id: 2,
+    id: 3,
     title: 'Arrow Game',
     skills: 'React, Redux RTK, TypeScript, Material UI, Vitest',
     img: arrowGame,
@@ -54,7 +66,7 @@ const projects = [
     deploy: 'https://nadeinmichael.github.io/react-arrow-game/',
   },
   {
-    id: 3,
+    id: 4,
     title: 'Travel X lending',
     skills: 'HTML, SCSS, Gulp',
     img: travelX,
@@ -63,7 +75,7 @@ const projects = [
     deploy: 'https://nadeinmichael.github.io/travelX-lending/',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Airpods lending',
     skills: 'HTML, CSS, @media, JS',
     img: airpodsLending,
@@ -72,7 +84,7 @@ const projects = [
     deploy: 'https://nadeinmichael.github.io/airpods-lending/',
   },
   {
-    id: 5,
+    id: 6,
     title: 'Bike Landing',
     skills: 'HTML, CSS, @media, JS',
     img: bike,
@@ -81,7 +93,7 @@ const projects = [
     deploy: 'https://nadeinmichael.github.io/bike-landing/',
   },
   {
-    id: 6,
+    id: 7,
     title: 'Carshering Landing',
     skills: 'HTML, CSS, @media, JS',
     img: carshering,
@@ -90,7 +102,7 @@ const projects = [
     deploy: 'https://nadeinmichael.github.io/carshering-lending/',
   },
   {
-    id: 7,
+    id: 8,
     title: 'Iphone Landing',
     skills: 'HTML, CSS, @media',
     img: iphone,
@@ -99,7 +111,7 @@ const projects = [
     deploy: 'https://nadeinmichael.github.io/iphone-landing/',
   },
   {
-    id: 8,
+    id: 9,
     title: 'Travel lending',
     skills: 'HTML, CSS, @media',
     img: travel,
